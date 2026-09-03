@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+.cache/
+.eslintcache
+*.tsbuildinfo
+*.log
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
